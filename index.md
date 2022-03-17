@@ -8,7 +8,7 @@ Attached below is the meme created through using R code as well the original cod
 
 The meme was created to reflect the different moods throughout the weekday from Monday through to Friday. Pictures from online were combined with text 
 through using R code and {magick} package to achieve the final meme. The meme is an adaption to the meme in Lab 2 through using cute kids put together with
-text. 
+text to represent different moods. 
 
 
 # Meme 
