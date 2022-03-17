@@ -13,7 +13,7 @@ text.
 
 # Meme 
 
-![]("")
+![Meme]("https://raw.githubusercontent.com/Lpan973/Stats220/main/220meme.jpg")
 
 # R Code 
 
